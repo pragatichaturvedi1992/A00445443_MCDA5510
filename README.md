@@ -10,3 +10,10 @@ Student id: A00445443.
 In Undergrade, I did work with Java.
 
 Looking forward to learn new technologies 
+
+#################################################################
+
+As part of Git Assignment (Team 11),I have performed below operations and their code is present in Fabian repository( A00447210)
+1. Substraction
+2. Mod
+3. Avg
