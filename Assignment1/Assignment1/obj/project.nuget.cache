@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "WRuD2GSaYL3MWJ1F6rwnznzx79eyU562d3oDFzT2D86GOsLFFBhAn8Ld/NRibNsg49nx2zZfC1D0d/kPl2bccw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\DELL\\Desktop\\MCDA5510_PROJECT\\A00445443_MCDA5510\\Assignment1\\Assignment1\\Assignment1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DELL\\.nuget\\packages\\csvhelper\\22.1.2\\csvhelper.22.1.2.nupkg.sha512",
+    "C:\\Users\\DELL\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

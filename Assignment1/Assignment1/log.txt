@@ -1,0 +1,4 @@
+TotalRows:  282909
+badRows:  81834
+goodRows:  201075
+Execution Time: 25642 ms
