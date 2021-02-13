@@ -54,6 +54,7 @@ namespace Assignment1
                         }
                         else
                         {
+                            cust.Street= cust.Street.Replace(",", "|");
                             // checking valid data and adding in list
                             Data.Add(cust);
 
